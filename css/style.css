@@ -316,7 +316,7 @@ button {
 
 .menu_main li a:hover {
   color: #ffffff;
-  background-color: #2b2278;
+  background-color: #636466;
 }
 
 .mb-lg-0,
@@ -873,10 +873,10 @@ button {
 .footer_section {
   width: 100%;
   float: left;
-  background-image: url(../images/footer-bg.png);
+  background-image: url(../images/banner-bg1.jpg);
   height: auto;
-  padding-top: 250px;
-  background-size: 100% 100%;
+  padding-top: 50px;
+  background-size: 100% 50%;
   padding-bottom: 30px;
   background-repeat: no-repeat;
 }
@@ -965,27 +965,3 @@ button {
 }
 
 /* footer section end */
-
-.copyright_section {
-  width: 100%;
-  float: left;
-  background-color: #122c2d;
-  height: auto;
-}
-
-.copyright_text {
-  width: 100%;
-  float: left;
-  color: #ffffff;
-  text-align: center;
-  font-size: 16px;
-  margin-left: 0px;
-}
-
-.copyright_text a {
-  color: #ffffff;
-}
-
-.copyright_text a:hover {
-  color: #e27141;
-}
