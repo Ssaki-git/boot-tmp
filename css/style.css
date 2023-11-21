@@ -382,7 +382,7 @@ button {
 }
 
 .read_bt a:hover {
-  background-color: #2b2278;
+  background-color: #758492;
   color: #ffffff;
 }
 
@@ -435,7 +435,7 @@ button {
   float: left;
   font-size: 16px;
   color: #ffffff;
-  background-color: #2b2278;
+  background-color: #758492;
   text-align: center;
   padding: 10px 0px;
   border-radius: 30px;
@@ -512,7 +512,7 @@ button {
 
 .readmore_bt a:hover {
   color: #ffffff;
-  background-color: #2b2278;
+  background-color: #758492;
 }
 
 .about_img {
@@ -704,12 +704,12 @@ button {
   width: 20px;
   height: 20px;
   border-radius: 100%;
-  background-color: #8781bd;
+  background-color: #c0cddc;
   bottom: -130px;
 }
 
 .carousel-indicators .active {
-  background-color: #2b2278;
+  background-color: #58535e;
 }
 
 /* client section end */
